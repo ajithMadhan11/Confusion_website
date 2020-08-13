@@ -1,0 +1,30 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content{
+  margin:0px auto;
+  padding:50px 0 50px 0;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+.footer{
+  background-color: #74B9FF;
+  margin:0px auto;
+  padding:20px 0px;
+}
+
+.address{
+  font-size: 40px;
+  margin:0px;
+  color:#0f0f0f;
+}
+body{
+  padding: 0px 0 0 0;
+  z-index: 0;
+}
+.navbar-dark {
+  background-color: #4834DF;
+
+}
